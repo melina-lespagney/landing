@@ -1,0 +1,8 @@
+.btn-green {
+	background-color: rgb(153, 167, 153);
+	padding: 15px 20px;
+	border-radius: 3px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Quicksand', sans-serif;
+}
